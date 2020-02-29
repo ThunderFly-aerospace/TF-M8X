@@ -1,5 +1,5 @@
 # TF-M8X
-ThunderFly Octa Multicopter
+ThunderFly Octa Multicopter. Design include hinges which make multicopter easier to transport. It is simple to maintain because almost all parts on multicopter are 3D printed. On bottom side can be attached nearly every payload you want.
 
 ## Parameters
     * Length: 2050 mm
