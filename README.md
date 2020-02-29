@@ -2,8 +2,7 @@
 ThunderFly Octa Multicopter. Design include hinges which make multicopter easier to transport. It is simple to maintain because almost all parts on multicopter are 3D printed. On bottom side can be attached nearly every payload you want.
 
 ## Parameters
-    * Length: 2050 mm
-    * Width: 2050 mm
+    * Length/Width: 2050 mm
     * Operating Empty Weight: 6.4 kg
     * Maximum Take-off Weight: 12 kg
     * Motors: 8 x Tarot 330kv 4008
