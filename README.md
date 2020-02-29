@@ -10,4 +10,5 @@ ThunderFly Octa Multicopter
     * ESCs: 8 x X-Rotor 40A
     * Fly Time: ~ 20 minutes
 
+### TF-M8X before flight test
 ![M8X Photo Before Flight Test](/Media/IMG_1568_cc.jpg)
